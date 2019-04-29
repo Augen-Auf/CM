@@ -1,0 +1,14 @@
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\bin\Debug\КМ-2.2.exe.config
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\bin\Debug\КМ-2.2.exe
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\bin\Debug\КМ-2.2.pdb
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.exe
+C:\Users\Zver\source\repos\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.pdb
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\bin\Debug\КМ-2.2.exe.config
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\bin\Debug\КМ-2.2.exe
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\bin\Debug\КМ-2.2.pdb
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.csprojAssemblyReference.cache
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.csproj.CoreCompileInputs.cache
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.exe
+D:\КМ(лабы)\КМ-2.2\КМ-2.2\obj\Debug\КМ-2.2.pdb
