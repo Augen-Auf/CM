@@ -1,0 +1,14 @@
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\bin\Debug\КМ-3.5.exe.config
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\bin\Debug\КМ-3.5.exe
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\bin\Debug\КМ-3.5.pdb
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.exe
+C:\Users\Zver\source\repos\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.pdb
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\bin\Debug\КМ-3.5.exe.config
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\bin\Debug\КМ-3.5.exe
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\bin\Debug\КМ-3.5.pdb
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.csprojAssemblyReference.cache
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.csproj.CoreCompileInputs.cache
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.exe
+F:\КМ(лабы)\КМ-3.5\КМ-3.5\obj\Debug\КМ-3.5.pdb
