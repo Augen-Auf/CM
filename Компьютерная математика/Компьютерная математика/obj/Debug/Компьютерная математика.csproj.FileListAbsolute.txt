@@ -1,0 +1,7 @@
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\bin\Debug\Компьютерная математика.exe.config
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\bin\Debug\Компьютерная математика.exe
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\bin\Debug\Компьютерная математика.pdb
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\obj\Debug\Компьютерная математика.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\obj\Debug\Компьютерная математика.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\obj\Debug\Компьютерная математика.exe
+C:\Users\Zver\source\repos\Компьютерная математика\Компьютерная математика\obj\Debug\Компьютерная математика.pdb
