@@ -1,0 +1,7 @@
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\bin\Debug\КМ-4.4.exe.config
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\bin\Debug\КМ-4.4.exe
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\bin\Debug\КМ-4.4.pdb
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\obj\Debug\КМ-4.4.csprojAssemblyReference.cache
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\obj\Debug\КМ-4.4.csproj.CoreCompileInputs.cache
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\obj\Debug\КМ-4.4.exe
+C:\Users\Zver\source\repos\КМ-4.4\КМ-4.4\obj\Debug\КМ-4.4.pdb
